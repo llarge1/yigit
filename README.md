@@ -1,1 +1,3 @@
-# yigit
+#titanic { 
+float: none;
+}
